@@ -18,8 +18,19 @@ h1{
     padding-left: 2%;
 }
 
+.one_third{
+    width: 29%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;
+}
+
 .half img{
-    width: 50%;
+    width: 100%;
+}
+
+.one_third img{
+    width: 100%;
 }
 
 .top-banner{
@@ -31,6 +42,10 @@ h1{
     background-image: url(img/developer-portfolio/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.latest{
+    width: 100%;
 }
 
 section{
